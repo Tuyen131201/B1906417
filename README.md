@@ -1,5 +1,8 @@
-# B1906417
-Xin chào !!! Tôi đến từ Việt Nam 
+# Hello
+Họ và tên: Mai Lê Bích Tuyền
+MSSV: B19064147 
+Mã lớp: DI1995A2
+
 
 
 
